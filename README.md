@@ -1,6 +1,12 @@
 # MobileBot
 
-<video controls src="WhatsApp Video 2026-05-30 at 8.39.07 AM.mp4" title="title">realWorld</video>
+
+
+https://github.com/user-attachments/assets/a030f9e8-0de9-4d1c-b7b7-19839f6eb0a9
+
+
+
+
 
 A ROS-based mobile robot project for camera-guided line following using OpenCV and TurtleBot3 simulation. The system detects a colored path from a camera feed and autonomously generates velocity commands to follow the line in a Gazebo environment.
 
